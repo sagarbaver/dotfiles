@@ -10,6 +10,9 @@ git clone https://github.com/sagarbaver/dotfiles.git ~/Projects/dotfiles
 
 # Symlink zshrc
 ln -sf ~/Projects/dotfiles/.zshrc ~/.zshrc
+
+# Install zsh-autosuggestions plugin (required by .zshrc)
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 
 ## What's included
@@ -19,7 +22,7 @@ ln -sf ~/Projects/dotfiles/.zshrc ~/.zshrc
 - **`git/`** — Commit message template and conventions
 - **`iterm2/`** — iTerm2 settings and color themes
 - **`terminator/`** — Terminator terminal config
-- **`vimium/`** — Vimium browser plugin config
+- **`zsh-custom/`** — Custom zsh plugin configs (e.g. zsh-autosuggestions)
 
 ## Local overrides with `.zshrc.local`
 

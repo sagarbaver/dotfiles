@@ -22,9 +22,9 @@ Plugin 'vim-scripts/FuzzyFinder'
 Plugin 'itchyny/lightline.vim'
 " surroundings: parentheses, brackets, quotes, XML tags, and more.
 Plugin 'tpope/vim-surround'
-" syntax highlighting, indenting and autocompletion for the dynamic stylesheet language LESS. Depreciated use.
+" syntax highlighting, indenting and autocompletion for the dynamic stylesheet language LESS. Deprecated use.
 " Plugin 'groenewege/vim-less'
-" Depreciated use
+" Deprecated use
 " Plugin 'maksimr/vim-jsbeautify'
 " Ability to parse .editorconfig file.
 Plugin 'editorconfig/editorconfig-vim'
