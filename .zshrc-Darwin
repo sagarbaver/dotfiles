@@ -1,5 +1,0 @@
-# ZSH configurations specific to macOS
-
-# ZSH command line syntax highlighting
-# Run `brew install zsh-syntax-highlighting` first
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
