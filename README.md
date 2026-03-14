@@ -20,8 +20,6 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 - **`.zshrc`** — Z-shell config (oh-my-zsh, history, NVM, pyenv, Claude Code wrapper)
 - **`.vimrc`** / **`.vim/`** — Vim editor and plugins
 - **`git/`** — Commit message template and conventions
-- **`iterm2/`** — iTerm2 settings and color themes
-- **`terminator/`** — Terminator terminal config
 - **`zsh-custom/`** — Custom zsh plugin configs (e.g. zsh-autosuggestions)
 
 ## Local overrides with `.zshrc.local`
